@@ -10,7 +10,7 @@
   },
   "help": {
     "description": "Показать все команды и описания",
-    "embedTitle": "{botname} Помощь",
+    "embedTitle": "Бот основан на EvoBot. {botname} - Помощь :)",
     "embedDescription": "Список всех команд"
   },
   "invite": {
@@ -53,7 +53,7 @@
     "description": "Воспроизведение музыки с YouTube или Soundcloud",
     "errorNotChannel": "Сначала вам нужно присоединиться к голосовому каналу!",
     "errorNotInSameChannel": "Вы должны быть в том же канале, что и {user}",
-    "usageReply": "Использование: {prefix}play <Ссылка на YouTube | Название видео | Ссылка на Soundcloud>",
+    "usageReply": "ОШИБКА: Использование: {prefix}play <Ссылка на YouTube | Название видео | Ссылка на Soundcloud>",
     "missingPermissionConnect": "Не удается подключиться к голосовому каналу, отсутствуют соответствующие разрешения",
     "missingPermissionSpeak": "Я не могу говорить в этом голосовом канале, убедитесь, что у меня есть соответствующие разрешения!",
     "queueAdded": "✅ **{title}** был добавлен в очередь <@{author}>",
